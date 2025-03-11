@@ -1,3 +1,6 @@
+
+![covid19](https://github.com/user-attachments/assets/767a454e-bee4-40ea-90b4-8975da885745)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
